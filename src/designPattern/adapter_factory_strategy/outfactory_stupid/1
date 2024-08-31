@@ -1,0 +1,5 @@
+《stupid》: 一个接口只算是一个产品线我们只有一个normalOut 所以用抽象工厂有点幽默了（多个产品线）
+
+重新设计:包==outfactory_next
+
+
